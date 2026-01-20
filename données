@@ -1,0 +1,228 @@
+[
+  {
+    "id": "1",
+    "name": "Crampons Adidas Predator",
+    "description": "Crampons de football haute performance avec technologie de contrôle de balle.",
+    "price": 189.99,
+    "imagePath": "assets/images/products/crampons1.jpg",
+    "category": "Crampons",
+    "features": [
+      "Semelle en TPU",
+      "Tige en cuir synthétique"
+    ],
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": "r1",
+        "userName": "Nasser Eddine Haraoui",
+        "userAvatar": "NH",
+        "rating": 5.0,
+        "comment": "Excellent crampon, très confortable et bon contrôle du ballon. Je recommande!",
+        "date": "2024-01-15T00:00:00.000"
+      },
+      {
+        "id": "r2",
+        "userName": "Karim Assalihi",
+        "userAvatar": "KA",
+        "rating": 4.5,
+        "comment": "Très bon produit, léger et performant. Un peu cher mais ça vaut le coup.",
+        "date": "2024-01-10T00:00:00.000"
+      },
+      {
+        "id": "r3",
+        "userName": "Adam Aboudhag",
+        "userAvatar": "AA",
+        "rating": 4.0,
+        "comment": "Bonne qualité, mais met du temps à être adapté au pied.",
+        "date": "2024-01-05T00:00:00.000"
+      },
+      {
+        "id": "r4",
+        "userName": "Yassin El Amrani",
+        "userAvatar": "YE",
+        "rating": 4.8,
+        "comment": "Parfait pour les matchs, excellente adhérence.",
+        "date": "2024-01-20T00:00:00.000"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Crampons Nike Mercurial",
+    "description": "Crampons légers pour une vitesse maximale sur le terrain.",
+    "price": 179.99,
+    "imagePath": "assets/images/products/crampons2.jpg",
+    "category": "Crampons",
+    "features": [
+      "Ultra légers (180g)",
+      "Tige Flyknit"
+    ],
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": "r5",
+        "userName": "Mohamed Ali",
+        "userAvatar": "MA",
+        "rating": 4.8,
+        "comment": "Incroyablement léger! Parfait pour les attaquants rapides.",
+        "date": "2024-01-12T00:00:00.000"
+      },
+      {
+        "id": "r6",
+        "userName": "Sara Benani",
+        "userAvatar": "SB",
+        "rating": 4.2,
+        "comment": "Design magnifique et très confortable. Livraison rapide.",
+        "date": "2024-01-08T00:00:00.000"
+      },
+      {
+        "id": "r7",
+        "userName": "Ahmed Touil",
+        "userAvatar": "AT",
+        "rating": 4.5,
+        "comment": "Super léger, sensation de vitesse incroyable.",
+        "date": "2024-01-18T00:00:00.000"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Chaussettes de Football Nike",
+    "description": "Chaussettes techniques avec soutien de la cheville.",
+    "price": 24.99,
+    "imagePath": "assets/images/products/chaussettes.jpg",
+    "category": "Accessoires",
+    "features": [
+      "Matière Dri-FIT",
+      "Soutien de la cheville"
+    ],
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": "r8",
+        "userName": "Youssef Karim",
+        "userAvatar": "YK",
+        "rating": 4.0,
+        "comment": "Bonnes chaussettes, bon maintien mais taille un peu petite.",
+        "date": "2024-01-18T00:00:00.000"
+      },
+      {
+        "id": "r9",
+        "userName": "Fatima Zahra",
+        "userAvatar": "FZ",
+        "rating": 4.3,
+        "comment": "Très confortables, évacuent bien la transpiration.",
+        "date": "2024-01-22T00:00:00.000"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Maillot Équipe Du Maroc",
+    "description": "Maillot officiel de l'équipe du Maroc.",
+    "price": 89.99,
+    "imagePath": "assets/images/products/maillot.jpg",
+    "category": "Tenues",
+    "features": [
+      "100% Polyester recyclé",
+      "Technologie AeroSwift"
+    ],
+    "rating": 4.9,
+    "reviews": [
+      {
+        "id": "r10",
+        "userName": "Amina Touil",
+        "userAvatar": "AT",
+        "rating": 5.0,
+        "comment": "Superbe maillot! Qualité exceptionnelle, fier de supporter le Maroc!",
+        "date": "2024-01-20T00:00:00.000"
+      },
+      {
+        "id": "r11",
+        "userName": "Hamza El Fassi",
+        "userAvatar": "HE",
+        "rating": 4.7,
+        "comment": "Confortable et beau design. Livraison impeccable.",
+        "date": "2024-01-14T00:00:00.000"
+      },
+      {
+        "id": "r12",
+        "userName": "Laila Mansouri",
+        "userAvatar": "LM",
+        "rating": 5.0,
+        "comment": "Parfait! Acheté pour mon frère, il adore.",
+        "date": "2024-01-25T00:00:00.000"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Short de Football Adidas",
+    "description": "Short technique léger avec fente latérale.",
+    "price": 39.99,
+    "imagePath": "assets/images/products/short.jpg",
+    "category": "Tenues",
+    "features": [
+      "Matière Climalite",
+      "Coupe ajustée"
+    ],
+    "rating": 4.4,
+    "reviews": [
+      {
+        "id": "r13",
+        "userName": "Rachid Bennis",
+        "userAvatar": "RB",
+        "rating": 4.3,
+        "comment": "Très léger et respirant. Parfait pour l'été.",
+        "date": "2024-01-16T00:00:00.000"
+      },
+      {
+        "id": "r14",
+        "userName": "Samira Alami",
+        "userAvatar": "SA",
+        "rating": 4.5,
+        "comment": "Bon rapport qualité-prix, coupe moderne.",
+        "date": "2024-01-19T00:00:00.000"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Ballon Adidas Finale",
+    "description": "Ballon officiel des finales de championnat.",
+    "price": 149.99,
+    "imagePath": "assets/images/products/ballon.jpg",
+    "category": "Ballons",
+    "features": [
+      "Circonférence: 68-70cm",
+      "Poids: 410-450g"
+    ],
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": "r15",
+        "userName": "Salah Eddine",
+        "userAvatar": "SE",
+        "rating": 4.8,
+        "comment": "Superbe ballon! Très bonne qualité et beau design.",
+        "date": "2024-01-22T00:00:00.000"
+      },
+      {
+        "id": "r16",
+        "userName": "Fatima Zahra",
+        "userAvatar": "FZ",
+        "rating": 4.5,
+        "comment": "Parfait pour les matchs. Bon rebond et précision.",
+        "date": "2024-01-19T00:00:00.000"
+      },
+      {
+        "id": "r17",
+        "userName": "Omar Bouzidi",
+        "userAvatar": "OB",
+        "rating": 4.7,
+        "comment": "Excellente balle, utilisée en championnat.",
+        "date": "2024-01-28T00:00:00.000"
+      }
+    ]
+  }
+]
